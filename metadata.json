@@ -1,0 +1,6 @@
+{
+  "name": "Royal Restaurant",
+  "description": "Premium contemporary restaurant website with editable menu, food gallery, WhatsApp ordering, clearly labelled editable business placeholders, and client customization studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
